@@ -75,10 +75,10 @@ const kaua = {
 
 **Área de PTP (Contas a Pagar) da multinacional Bunge**
 
-- 💳 Apoio as rotinas de Contas a Pagar, em um fluxo de **20 folhas de pagamento por dia**, mantendo organização e cumprimento de prazos
-- 🤖 **Automatizo processos** com **Blue Prism** e **Python**: uma das automações **economizou 20 minutos por semana** de trabalho manual
+- 💳 Apoiei as rotinas de Contas a Pagar, em um fluxo de **20 folhas de pagamento por dia**, mantendo organização e cumprimento de prazos
+- 🤖 **Automatizei processos** com **Blue Prism** e **Python**: uma das automações **economizou 20 minutos por semana** de trabalho manual
 - 🛠️ Prestei suporte às demandas da equipe e resolvo problemas operacionais no dia a dia
-- 👥 Trabalho em equipe para apoiar a área nas atividades operacionais
+- 👥 Trabalhei em equipe para apoiar a área nas atividades operacionais
 
 </details>
 
