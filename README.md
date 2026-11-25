@@ -168,30 +168,11 @@ const kaua = {
 
 ## `> github --stats`
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaua-RM&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-RM&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Kaua-RM&theme=radical&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaua-RM&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=KIFSC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIFSC&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" /> <br/> <img src="https://streak-stats.demolab.com?user=KIFSC&theme=radical&hide_border=true&background=0d1117" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=KIFSC&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIFSC&bg_color=0d1117&color=00F5A0&line=7F00FF&point=00E5FF&area=true&area_color=7F00FF&hide_border=true" width="100%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KFISC/KFISC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" />
-  <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIFSC&bg_color=0d1117&color=00F5A0&line=7F00FF&point=00E5FF&area=true&area_color=7F00FF&hide_border=true" width="100%" /> <br/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" /> <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" width="100%" /> </picture> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00E5FF&height=2" width="100%" />
 
 </div>
 
