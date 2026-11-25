@@ -1,10 +1,12 @@
+
+
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kauã%20Mellato&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20formação%20%7C%20Automação%20%7C%20Mobile&descAlignY=58&descSize=20" alt="Banner Kauã Mellato" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kau%C3%A3%20Mellato&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Mobile&descAlignY=58&descSize=20" alt="Banner Kauã Mellato" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Kauã+%F0%9F%91%8B;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Automatizo+processos+com+Blue+Prism+e+Python;Crio+apps+mobile+com+Flutter+e+React+Native;Em+busca+do+meu+primeiro+emprego+na+área+de+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/Kaua-RM">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%A3;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Automatizo+processos+com+Blue+Prism+e+Python;Crio+apps+mobile+com+Flutter+e+React+Native;Em+busca+do+meu+primeiro+emprego+em+tecnologia" alt="Olá, eu sou o Kauã - Estudante de ADS, automação e mobile" />
 </a>
 
 <br/>
