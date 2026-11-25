@@ -25,7 +25,7 @@ const kaua = {
   papel:      "Dev em formação: Web, Mobile e Automação",
   estudando:  "Análise e Desenvolvimento de Sistemas @ IFSC",
   trabalhei:  "Estágio em Contas a Pagar (PTP) @ Bunge",
-  trabalho:   "Estágion na Prefeitura de Gaspar", 
+  trabalho:   "Estágio na Prefeitura de Gaspar", 
   web:        ["JavaScript", "TypeScript", "HTML", "CSS"],
   mobile:     ["Flutter", "React Native"],
   automatiza: ["Blue Prism", "Python"],
