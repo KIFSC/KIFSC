@@ -24,7 +24,8 @@ const kaua = {
   nome:       "Kauã Mellato",
   papel:      "Dev em formação: Web, Mobile e Automação",
   estudando:  "Análise e Desenvolvimento de Sistemas @ IFSC",
-  trabalhando: "Estágio em Contas a Pagar (PTP) @ Bunge",
+  trabalhei:  "Estágio em Contas a Pagar (PTP) @ Bunge",
+  trabalho:   "Estágion na Prefeitura de Gaspar", 
   web:        ["JavaScript", "TypeScript", "HTML", "CSS"],
   mobile:     ["Flutter", "React Native"],
   automatiza: ["Blue Prism", "Python"],
@@ -44,8 +45,8 @@ const kaua = {
 
 | | |
 | :-- | :-- |
-| 🔭 **Atualmente** | Estagiando em Contas a Pagar na **Bunge** e cursando ADS no **IFSC** |
-| ⚡ **Automatizando** | Processos reais com **Blue Prism** e **Python** |
+| 🔭 **Atualmente** | Estagiando em Comunicação na **Prefeitura de Gaspar** e cursando ADS no **IFSC** |
+| ⚡ **Automatizei** | Processos reais com **Blue Prism** e **Python** |
 | 🌐 **Construindo** | Aplicações **web** (JavaScript, TypeScript, HTML, CSS) e **mobile** (Flutter, React Native) |
 | 💬 **Pergunte-me sobre** | Automação de processos, desenvolvimento web e mobile, rotinas de Contas a Pagar, NFS-e, suporte ao usuário |
 | 🎯 **Meta** | Primeiro emprego na área de tecnologia |
@@ -69,14 +70,14 @@ const kaua = {
 ## `> git log --experiencia`
 
 <details open>
-<summary><b>🏢 Estagiário · Bunge Alimentos</b> &nbsp;<code>2026 → atual</code></summary>
+<summary><b>🏢 Estagiário · Bunge Alimentos</b> &nbsp;<code>2026</code></summary>
 <br/>
 
 **Área de PTP (Contas a Pagar) da multinacional Bunge**
 
 - 💳 Apoio as rotinas de Contas a Pagar, em um fluxo de **20 folhas de pagamento por dia**, mantendo organização e cumprimento de prazos
 - 🤖 **Automatizo processos** com **Blue Prism** e **Python**: uma das automações **economizou 20 minutos por semana** de trabalho manual
-- 🛠️ Presto suporte às demandas da equipe e resolvo problemas operacionais no dia a dia
+- 🛠️ Prestei suporte às demandas da equipe e resolvo problemas operacionais no dia a dia
 - 👥 Trabalho em equipe para apoiar a área nas atividades operacionais
 
 </details>
