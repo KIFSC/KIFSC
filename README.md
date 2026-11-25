@@ -168,7 +168,7 @@ const kaua = {
 
 ## `> github --stats`
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=KIFSC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIFSC&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" /> <br/> <img src="https://streak-stats.demolab.com?user=KIFSC&theme=radical&hide_border=true&background=0d1117" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=KIFSC&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=KIFSC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIFSC&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" /> <br/> <img src="https://streak-stats.demolab.com?user=KIFSC&theme=radical&hide_border=true&background=0d1117" /> <br/>
 
 <br/><br/>
 
