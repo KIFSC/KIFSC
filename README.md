@@ -183,7 +183,7 @@ const kaua = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaua-RM&bg_color=0d1117&color=00F5A0&line=7F00FF&point=00E5FF&area=true&area_color=7F00FF&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIFSC&bg_color=0d1117&color=00F5A0&line=7F00FF&point=00E5FF&area=true&area_color=7F00FF&hide_border=true" width="100%" />
 
 <br/>
 
