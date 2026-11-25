@@ -189,8 +189,8 @@ const kaua = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KFISC/KFISC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KFISC/KFISC/output/github-snake.svg" />
-  <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/KFISC/KFISC/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" />
+  <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/KIFSC/KIFSC/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
