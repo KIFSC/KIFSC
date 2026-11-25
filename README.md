@@ -238,7 +238,7 @@ $ git status
 ## `> cat disponibilidade.txt`
 
 ```text
-Horário: 15h30 às 23h00 (1h de intervalo)
+Horário: 07:00 às 17h00 horas
 Extra:   1 dia do final de semana
 ```
 
